@@ -80,8 +80,8 @@ O design é totalmente responsivo e se adapta para:
 ## 🚀 Como Usar
 
 1. **Adicione as imagens:**
-   - Coloque a imagem principal em `image/photo/hero.jpg`
-   - Coloque a foto da dra em `image/photo/dra-marina.jpg`
+   - Coloque a imagem principal em `image/photo/`
+   - Coloque a foto do médico em `image/photo/`
    - Adicione um favicon em `image/favicon/`
 
 2. **Personalize o conteúdo:**
